@@ -1,0 +1,6 @@
+{
+  "name": "openrouter-vercel-proxy",
+  "version": "1.0.0",
+  "description": "Lightweight reverse proxy for the OpenRouter API on Vercel Edge Runtime",
+  "private": true
+}
